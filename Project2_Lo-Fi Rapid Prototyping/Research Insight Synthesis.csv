@@ -1,0 +1,116 @@
+﻿"Prioritization"
+"Reasons for Choosing These Ideas: Login: This is a basic yet necessary feature for any application. It helps protect user information and creates a personalized experience. Reminder to Sell - Buy Rice: This feature is very useful for users in planning their business activities, especially in agriculture where buying and selling transactions need to be timely and accurate. Rice Delivery Reminder: This helps optimize the delivery process, minimizes errors, and ensures better customer service, which is crucial for retaining customers and building reputation. Reference Payment: This feature allows users to easily check previous payments, helping them manage finances better and avoid misunderstandings or disputes. "
+"reference payment"
+"Reminder to sell - buy rice"
+"Rice delivery reminder"
+"Visual Dashboard for Financial Overview"
+"Offline Mode with Auto-Sync"
+"Login"
+"Calculate rice price"
+"Value"
+"Automatic Data Sync Across Devices"
+"Customizable Reporting Tool"
+"Step-by-Step Onboarding Guide"
+"Complexity"
+
+
+"Reminder to sell - buy rice: Manage Time and Transaction History
+login : Security and Fast Access
+Uncle Lam said he needed security to use the software.
+Just log in with your personal phone
+Reminder Automation: Use AI and machine learning to predict the optimal time to buy or sell rice based on market data and transaction history
+Customize notifications: Provide options for users to set personalized reminders, such as reminder time and notification channel (email, SMS, app).
+It will be more convenient to register with google, facebook or phone number
+Analysis and reporting: Analyze purchase history to give the best suggestions to users.
+Create reminder: Allows to create/delete/edit reminders and notify partners
+Build a clear authorization system to ensure only authorized people can access certain functions
+Rice delivery reminder: Delivery and Logistics Management
+Calculate rice price: Accuracy and Transparency in Financial Transactions
+Map and Directions Integration: Use the map API to provide detailed directions to the rice delivery location, saving users time.
+Real-time delivery tracking: Implement delivery status tracking so users can know exactly when the rice will be delivered.
+Automated Calculation: Develop a tool to automatically calculate rice prices based on inputs such as volume, current market price, shipping costs and discounts.
+Real-time price update: Integrate API to update rice prices in real-time, helping users grasp price fluctuations in the market.
+Optimize delivery schedules: Analyze and optimize delivery schedules based on geographic distance and order volume to reduce delivery costs and time.
+Electronic invoice: Provides electronic invoice issuance feature for users to easily track and store transactions.
+Customize by agreement: Allows the user to stop customizing by mutual agreement
+reference payment: Fast and Secure Payment
+Integrate diverse payment gateways: Support many different payment methods such as credit cards, e-wallets (Momo, ZaloPay) to increase convenience for users.
+Payment Security: Use SSL encryption and advanced security measures to protect customer payment information.
+Transaction Tracking and Management: Build a detailed transaction management system, helping users track payments and reconcile easily.
+Cash Payment: Allows to create cash payments and record the actual amount received"
+"Paper Sketches - Iteration 1"
+"Delivery and Logistics This feature includes a real-time map showing the delivery route, input fields for sender and recipient addresses, and updates on the current delivery status and estimated delivery time."
+"Payment Users can choose from multiple payment options, such as credit/debit cards, online banking, e-wallets, and third-party payment platforms like Crash,Momo, ATM,Google Pay, or ZaloPay, ensuring a flexible and secure payment experience"
+"Calculate Rice Price It includes input fields for different costs, such as seed cost, fertilizer cost, labor cost, and a button to calculate the total cost. The total cost is dynamically displayed at the bottom of the screen as users input values."
+"Login Here is a draft of a login screen design based on my description. It includes fields for the username and password, a logo at the top, a login button, and options for third-party logins such as Google and Zalo...."
+"Flow Login Basic login process of the app."
+"Home  App main screen"
+"Payment Users can choose from multiple payment options, such as credit/debit cards, online banking, e-wallets, and third-party payment platforms like Crash,Momo, ATM,Google Pay, or ZaloPay, ensuring a flexible and secure payment experience"
+"Create Notification  Allows users to set up reminders for upcoming or overdue payments. Users can specify payment details, choose reminder schedules, and select notification methods such as  push alerts."
+"Manage Time and Transaction History Users can review past transactions, filter by date or type, and set reminders for future activities or payments, ensuring efficient time management and record-keeping."
+"New bill Users can input details such as item descriptions, quantities, prices, and any applicable taxes or discounts. The feature generates a comprehensive invoice that can be sent to customers, who can then proceed to make the payment using various methods."
+
+"Digital Prototype - Iteration 1"
+"Home Screen: The home screen serves as the central hub, providing access to all system features and functionalities. Users can easily navigate to different sections, such as account management, notifications, payment reminders, and settings. This screen offers a user-friendly interface with quick access buttons and an overview of recent activities or important updates."
+"Login Screen: The login screen allows users to securely access their accounts by entering their credentials, such as a username or email and password. It includes options to reset forgotten passwords and supports third-party login methods, such as using Google, Zalo, or other social media accounts for a quicker login experience   Enable sign In"
+
+"Digital Prototype"
+"LOGO"
+"Rice Management"
+"Email"
+"Password"
+"or use one of your social profiles"
+"Forgot Password?"
+"Sign Up"
+
+"Flow apps"
+" Workflow diagram: Defining new features  Date:"
+"Pay  Flow"
+"User login"
+"Show Home Screen"
+"User selects payment function"
+"Show total bill"
+"Yes"
+"No"
+"Choose Payment Method"
+"Is it cash payment?"
+"Wait for confirmation and return home"
+"Yes"
+"No"
+"Select e-wallet type"
+"Back to Total Bill Screen"
+"No"
+"Yes"
+"Check if the payment balance is greater than the amount on the bill"
+"Back to Total Bill Screen"
+"No"
+"Yes"
+"Wait for confirmation and return home"
+
+"Iterated Prototype - Iteration 2"
+"Payment Success Screen: This screen confirms that the payment has been successfully processed and provides a summary of the transaction details. Users are notified of the successful payment and given the option to return to the home screen to continue using the app."
+"Home Screen: The home screen serves as the central hub, providing access to all system features and functionalities. Users can easily navigate to different sections, such as account management, notifications, payment reminders, and settings. This screen offers a user-friendly interface with quick access buttons and an overview of recent activities or important updates."
+"Payment Screen: The payment screen allows users to complete transactions using various payment gateways, such as credit/debit cards, digital wallets, and online banking. It provides a secure and seamless checkout process, with options to save payment details for future use and view transaction history for easy tracking."
+"Login Screen: The login screen allows users to securely access their accounts by entering their credentials, such as a username or email and password. It includes options to reset forgotten passwords and supports third-party login methods, such as using Google, Zalo, or other social media accounts for a quicker login experience   Enable sign In"
+
+"Reference Link"
+"Figma link: https://www.figma.com/design/IiAeJTBIl4Joom7hTtmNwn/Rice-Managerment-Login-Flow?node-id=0-1&t=AWTejeOelkN1A8DI-1   Digital Prototype - Iteration 1: https://www.figma.com/proto/3QewsNnoWFmQA80ONKHJmL/Digital-Prototype---Iteration-1?node-id=1-2183&node-type=FRAME&t=OAgjfQzxcjr5WHsy-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2218   Iterated Prototype - Iteration 2: https://www.figma.com/proto/0JF6DYEeJCpGMpjPgLuirH/Iterated-Prototype---Iteration-2?node-id=3957-2852&node-type=CANVAS&t=0Ot0UhQGRvdIjzGS-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3957%3A2852    my Drive: https://drive.google.com/drive/folders/1WZGhS0D_XedpHkNREX2zb9U9gPgMR5E1Note: Auditor can viewer and comment","https://www.figma.com/design/IiAeJTBIl4Joom7hTtmNwn/Rice-Managerment-Login-Flow?node-id=0-1&t=AWTejeOelkN1A8DI-1, https://www.figma.com/design/IiAeJTBIl4Joom7hTtmNwn/Rice-Managerment-Login-Flow?node-id=0-1&t=AWTejeOelkN1A8DI-1</a></p><p><br></p><p>Digital, https://www.figma.com/proto/3QewsNnoWFmQA80ONKHJmL/Digital-Prototype---Iteration-1?node-id=1-2183&node-type=FRAME&t=OAgjfQzxcjr5WHsy-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2218, https://www.figma.com/proto/3QewsNnoWFmQA80ONKHJmL/Digital-Prototype---Iteration-1?node-id=1-2183&node-type=FRAME&t=OAgjfQzxcjr5WHsy-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2218</a></p><p><br></p><p>Iterated, https://www.figma.com/proto/0JF6DYEeJCpGMpjPgLuirH/Iterated-Prototype---Iteration-2?node-id=3957-2852&node-type=CANVAS&t=0Ot0UhQGRvdIjzGS-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3957%3A2852, https://www.figma.com/proto/0JF6DYEeJCpGMpjPgLuirH/Iterated-Prototype---Iteration-2?node-id=3957-2852&node-type=CANVAS&t=0Ot0UhQGRvdIjzGS-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3957%3A2852</a></p><p><br></p><p><a, https://www.figma.com/design/0JF6DYEeJCpGMpjPgLuirH/Iterated-Prototype---Iteration-2?node-id=0-1&t=Au8holToEkFRVgYB-1, https://www.figma.com/design/IiAeJTBIl4Joom7hTtmNwn/Rice-Managerment-Login-Flow?node-id=0-1&t=AWTejeOelkN1A8DI-1@@Note:, https://drive.google.com/drive/folders/1WZGhS0D_XedpHkNREX2zb9U9gPgMR5E1, https://drive.google.com/drive/folders/1WZGhS0D_XedpHkNREX2zb9U9gPgMR5E1</a><a"
+
+"Feature Ideation"
+"Step 1: Research Synthesis"
+"1.Login Create a secure login system to protect user data and allow customized access. This functionality will allow users to log in using email, phone number, or social media account"
+"2.Reminder to sell - buy rice Integrate a reminder system to notify farmers when to sell or buy rice based on inventory levels and market prices. Notifications can be set via mobile app or email."
+"5. Reference payment Provide payment templates and payment instructions for transactions related to rice purchases, including international payments. Support various payment methods."
+"Interview Notes"
+"Themes and Opportunities"
+"7.Offline Mode with Auto-Sync Offline mode allows users to continue updating data even without an internet connection, with automatic syncing when connection is restored"
+"9.Customizable Reporting Tool The reporting tool allows users to create customized financial reports based on criteria such as time, rice type, or expense category, making data analysis easier."
+"3. Rice delivery reminder Reminder function for rice delivery time to customers or rice receipt from suppliers. Supports easy scheduling and transaction tracking"
+"4. Calculate rice price Rice price calculator based on criteria such as rice type, production cost, transportation cost, and desired profit margin. The calculation formula can be customized."
+"6. Automatic Data Sync Across Devices The feature synchronizes financial data and transactions across all user devices (phones, tablets, computers), ensuring data is always up to date and accessible anytime, anywhere."
+"8. Visual Dashboard for Financial Overview Intuitive dashboards provide an overview of your finances, including revenue, expenses, profits, and forecasts. Use charts and graphs to easily understand and analyze data."
+"10.Step-by-Step Onboarding Guide A detailed getting started guide makes it easy for new users to set up and use the app. Includes tutorials, tips, and FAQs tailored to the user's needs and skill level"
+"Feature Canvas by Nikita Efimov is licensed under CC BY-SA 4.0","http://featurecanvas.com/, https://creativecommons.org/licenses/by-sa/4.0/"
+"Step 2: Rapid Prototyping"
+"Step 3: Usability Study and Design Iteration"
+"Flow : Login -> payment -> Pay Now -> back"
